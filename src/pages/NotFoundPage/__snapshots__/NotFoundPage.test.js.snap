@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Given a NotFoundPage component When its rendered Then it should always match this snapshot 1`] = `
+<div
+  className="sc-bczRLJ cdtiOd"
+>
+  <h1>
+    404
+  </h1>
+  <h2>
+    It seems that you have not found any fishes...
+  </h2>
+</div>
+`;

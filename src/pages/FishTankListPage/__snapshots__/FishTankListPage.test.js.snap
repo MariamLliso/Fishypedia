@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Given the FishTankListPage component When rendered with 2 fishes Then it should always match this snapshot 1`] = `
+<ul
+  className="sc-dkzDqf jxeCkQ"
+/>
+`;
