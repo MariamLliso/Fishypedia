@@ -1,6 +1,4 @@
-<img 
-     src=".github/img/fishypedia-github.png"
-     alt="Fishypedia, a mobile app to manage all fishes from Animal Crossing New Horizons">
+<img src=".github/img/fishypedia-github.png" alt="Fishypedia, a mobile app to manage all fishes from Animal Crossing New Horizons">
 
 <br/>
 
