@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/26719910-4f04-4d49-9f18-883911896fc2/deploy-status)](https://app.netlify.com/sites/cheerful-narwhal-ceeb6f/deploys) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=MariamLliso_Fishypedia&metric=coverage)](https://sonarcloud.io/summary/new_code?id=MariamLliso_Fishypedia)
+
 <img src=".github/img/fishypedia-github.png" alt="Fishypedia, a mobile app to manage all fishes from Animal Crossing New Horizons">
 
 <br/>
